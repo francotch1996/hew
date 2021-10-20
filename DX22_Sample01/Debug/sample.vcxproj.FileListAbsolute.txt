@@ -1,0 +1,2 @@
+C:\Users\Franco\Desktop\DirectX\DX22_Sample01\Debug\sample.exe
+C:\Users\Franco\Desktop\DirectX\DX22_Sample01\Debug\sample.pdb
